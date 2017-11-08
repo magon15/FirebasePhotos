@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "369709929393",
+    "firebase_url": "https://fir-photos-7fe9f.firebaseio.com",
+    "project_id": "fir-photos-7fe9f",
+    "storage_bucket": "fir-photos-7fe9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369709929393:android:2555ff67b5222f44",
+        "android_client_info": {
+          "package_name": "com.magonapps.android.firebasephotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369709929393-q2g17dijhs6hk6o30vgnrimc6cirt8m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magonapps.android.firebasephotos",
+            "certificate_hash": "b3ae11f91c5a9fe805ee19bb2a351b079186d4ff"
+          }
+        },
+        {
+          "client_id": "369709929393-tg3qoo958i9sqqarps855ihu8p6hgq2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd5uuXUJpPFJkDPQ6rInbvlMwXCV4uojM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369709929393-tg3qoo958i9sqqarps855ihu8p6hgq2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

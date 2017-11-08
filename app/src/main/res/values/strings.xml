@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Photos</string>
+    <string name="email_address">E-mail address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="progress_logging_in">Logging in...</string>
+    <string name="create_account">Create account</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="full_name_input">Full name</string>
+    <string name="home_country_input">Home country</string>
+    <string name="choose_photo">Choose photo</string>
+</resources>
